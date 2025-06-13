@@ -5,3 +5,5 @@
 - **Sales Model code file:** `Salesmodel.py`
 - **Redemption Model code file:** `Model.py` *(Updated base model is included here)*
 - **Original code file:** `Modelling.ipynb`
+- **Reports folder contain Non-technical and Technical summary reports**
+
