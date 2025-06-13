@@ -1,4 +1,5 @@
 # Technical Test for Applied Scientist
+### Applicant Name: Ashani Wickramasinghe
 
 - **Main code file:** `Predicting_Ferry_Activities.ipynb`
 - **Sales Model code file:** `Salesmodel.py`
